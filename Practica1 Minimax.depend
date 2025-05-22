@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1728903780 source:c:\users\victo\onedrive\escritorio\resols\problemes\programacio avanzada\practica1-c\practica1 minimax\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FunctionsQR.h"
+
+1728890539 source:c:\users\victo\onedrive\escritorio\resols\problemes\programacio avanzada\practica1-c\practica1 minimax\pila infinita.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1728903434 source:c:\users\victo\onedrive\escritorio\resols\problemes\programacio avanzada\practica1-c\practica1 minimax\connect-4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"FunctionsQR.h"
+
+1728902215 c:\users\victo\onedrive\escritorio\resols\problemes\programacio avanzada\practica1-c\practica1 minimax\functionsqr.h
+
+1734109323 source:c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\connect-4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Connect4.h"
+	"Minimax.h"
+
+1729607969 c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\functionsqr.h
+
+1732530679 source:c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Connect4.h"
+	"Minimax.h"
+
+1729673306 c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\functionsconnect4.h
+
+1729673289 source:c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\algorismeminimax.c
+	<stdio.h>
+	<stdlib.h>
+	"FunctionsConnect4.h"
+
+1734800164 c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\connect4.h
+
+1732531345 c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\minimax.h
+
+1732531361 source:c:\users\victo\onedrive\escritorio\resols\seminaris\programacio avanzada\practica1-c\practica1 minimax\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Connect4.h"
+	"Minimax.h"
+
+1737971663 source:c:\users\victo\onedrive\escritorio\practica1 minimax\connect-4.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Connect4.h"
+	"Minimax.h"
+
+1734800164 c:\users\victo\onedrive\escritorio\practica1 minimax\connect4.h
+
+1732531345 c:\users\victo\onedrive\escritorio\practica1 minimax\minimax.h
+
+1732530679 source:c:\users\victo\onedrive\escritorio\practica1 minimax\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Connect4.h"
+	"Minimax.h"
+
+1732531361 source:c:\users\victo\onedrive\escritorio\practica1 minimax\minimax.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Connect4.h"
+	"Minimax.h"
+
