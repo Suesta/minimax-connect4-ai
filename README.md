@@ -28,7 +28,7 @@ Use any C compiler or an IDE like Code::Blocks:
 gcc -o connect4 main.c Connect-4.c Minimax.c -lm
 ./connect4
 
-
+```
 ## 🔗 Author
 Víctor Suesta  
 [LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
